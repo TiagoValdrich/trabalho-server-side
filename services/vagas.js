@@ -1,6 +1,6 @@
 
-var getPosts = function() {
-    var posts = [
+const getPosts = function() {
+    const posts = [
       {
         id: 1,
         title: 'Foritficador',
